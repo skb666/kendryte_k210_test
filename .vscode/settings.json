@@ -1,0 +1,29 @@
+{
+    "debug.openocd.port": 9824,
+    "files.associations": {
+        "gpio.h": "c",
+        "fpioa.h": "c",
+        "stdio.h": "c",
+        "pin_config.h": "c",
+        "sleep.h": "c",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "platform.h": "c",
+        "uart.h": "c",
+        "fft.h": "c",
+        "bsp.h": "c",
+        "key.h": "c",
+        "timer.h": "c",
+        "mytimer.h": "c",
+        "main.h": "c",
+        "led.h": "c"
+    }
+}

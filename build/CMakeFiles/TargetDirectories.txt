@@ -1,0 +1,6 @@
+D:/Users/Downloads/k210/demo/build/CMakeFiles/edit_cache.dir
+D:/Users/Downloads/k210/demo/build/CMakeFiles/hello_world.dir
+D:/Users/Downloads/k210/demo/build/CMakeFiles/rebuild_cache.dir
+D:/Users/Downloads/k210/demo/build/kendryte_standalone-sdk/CMakeFiles/kendryte_standalone-sdk.dir
+D:/Users/Downloads/k210/demo/build/kendryte_standalone-sdk/CMakeFiles/edit_cache.dir
+D:/Users/Downloads/k210/demo/build/kendryte_standalone-sdk/CMakeFiles/rebuild_cache.dir
